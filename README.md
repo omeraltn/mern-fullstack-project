@@ -81,8 +81,8 @@ npm run dev
 
 ## Ekran Görüntüsü
 
-![](../mern/client/public/screen.jpg)
+![Ekran Görüntüsü](client/public/screen.jpg)
 
 ## Gif
 
-![](../mern/client/public/ekran.gif)
+![Uygulama Önizlemesi](client/public/ekran.gif)
